@@ -1,0 +1,14 @@
+[
+    {
+        "task": "Read newspaper",
+        "done": true
+    },
+    {
+        "task": "Buy groceries",
+        "done": true
+    },
+    {
+        "task": "Study python",
+        "done": true
+    }
+]
